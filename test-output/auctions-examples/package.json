@@ -1,7 +1,7 @@
 {
-  "name": "fhevm-example-hub",
+  "name": "fhevm-auctions-examples",
   "version": "1.0.0",
-  "description": "Comprehensive FHEVM examples generator with automated documentation",
+  "description": "Confidential auction mechanisms using FHEVM",
   "main": "index.js",
   "scripts": {
     "compile": "cross-env TS_NODE_TRANSPILE_ONLY=true hardhat compile",
@@ -22,6 +22,7 @@
     "fhe",
     "privacy",
     "blockchain",
+    "auctions",
     "examples"
   ],
   "author": "Atlas",
